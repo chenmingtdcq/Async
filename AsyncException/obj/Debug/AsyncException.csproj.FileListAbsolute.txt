@@ -1,0 +1,5 @@
+F:\program\practice\Async\AsyncException\bin\Debug\AsyncException.exe.config
+F:\program\practice\Async\AsyncException\bin\Debug\AsyncException.exe
+F:\program\practice\Async\AsyncException\bin\Debug\AsyncException.pdb
+F:\program\practice\Async\AsyncException\obj\Debug\AsyncException.exe
+F:\program\practice\Async\AsyncException\obj\Debug\AsyncException.pdb

@@ -1,0 +1,5 @@
+F:\program\practice\Async\AsyncWait\bin\Debug\AsyncWait.exe.config
+F:\program\practice\Async\AsyncWait\bin\Debug\AsyncWait.exe
+F:\program\practice\Async\AsyncWait\bin\Debug\AsyncWait.pdb
+F:\program\practice\Async\AsyncWait\obj\Debug\AsyncWait.exe
+F:\program\practice\Async\AsyncWait\obj\Debug\AsyncWait.pdb

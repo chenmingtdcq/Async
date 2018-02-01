@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2261552C-C419-4A64-9B2E-5559A5A2DCF6}</ProjectGuid>
+    <ProjectGuid>{328CCA81-D520-4F4F-A627-B425EE31B252}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsyncReturn</RootNamespace>
-    <AssemblyName>AsyncReturn</AssemblyName>
+    <RootNamespace>AsyncWait</RootNamespace>
+    <AssemblyName>AsyncWait</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
