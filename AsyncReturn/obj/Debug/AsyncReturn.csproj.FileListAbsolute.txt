@@ -1,0 +1,7 @@
+F:\code\AsyncExample\AsyncReturn\bin\Debug\AsyncReturn.exe.config
+F:\code\AsyncExample\AsyncReturn\bin\Debug\AsyncReturn.exe
+F:\code\AsyncExample\AsyncReturn\bin\Debug\AsyncReturn.pdb
+F:\code\AsyncExample\AsyncReturn\obj\Debug\AsyncReturn.csprojResolveAssemblyReference.cache
+F:\code\AsyncExample\AsyncReturn\obj\Debug\AsyncReturn.csproj.CoreCompileInputs.cache
+F:\code\AsyncExample\AsyncReturn\obj\Debug\AsyncReturn.exe
+F:\code\AsyncExample\AsyncReturn\obj\Debug\AsyncReturn.pdb
